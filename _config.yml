@@ -56,3 +56,6 @@ facebook:
   admins: 
 logo:
 google_site_verification: 
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
