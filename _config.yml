@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title-bold: GET
+title-normal: CLASS UP
+email: rusamgr8@gmail.com
+description: GetClassUp started with the motto to help human beings to exude their passion. This was created with full love and respect to benefit people. Part of the material is also used from learnings of one of the best Leadership Mentor, Robin Sharma.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site
+author: "Rushabh Soni"
+street_address: 
+city: 
+state: 
+zip_code:
+country: 
+phone: 
 
 # Plugins
 gems:
@@ -29,7 +29,7 @@ gems:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
-tiles-count: 6
+tiles-count: 2
 
 # Social settings
 500px_url: 
