@@ -11,7 +11,7 @@ title-normal: CLASS UP
 email: rusamgr8@gmail.com
 description: GetClassUp started with the motto to help human beings to exude their passion. This was created with full love and respect to benefit people. Part of the material is also used from learnings of one of the best Leadership Mentor, Robin Sharma.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://rusamgr8.github.io" # the base hostname & protocol for your site
 author: "Rushabh Soni"
 street_address: 
 city: 
