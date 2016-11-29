@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: GET
-title-normal: CLASS UP
+title-bold: GET CLASSUP
+title-normal: 
 email: rusamgr8@gmail.com
 description: GetClassUp started with the motto to help human beings to exude their passion. This was created with full love and respect to benefit people. Part of the material is also used from learnings of one of the best Leadership Mentor, Robin Sharma.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -33,12 +33,12 @@ tiles-count: 2
 
 # Social settings
 500px_url: 
-facebook_url: 
+facebook_url: https://facebook.com/rusamgr8
 github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url: 
 slack_url: 
 twitter_url: https://twitter.com/andrewbanchich
@@ -48,7 +48,7 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: rusamgr8
 # Add one or more of the following
 facebook:
   app_id: 
