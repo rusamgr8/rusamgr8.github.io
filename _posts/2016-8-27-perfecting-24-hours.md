@@ -3,6 +3,7 @@ layout: post
 title: Perfecting 24 Hours
 description: This is all about daily practice to make all the 24 hours of a day totally perfect.
 image: assets/images/clock.jpg
+comments: true
 ---
 
 **Perfecting 24** is all about daily practice to make all the 24 hours of a day totally perfect.

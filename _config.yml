@@ -41,14 +41,14 @@ instagram_url:
 linkedin_url:
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/rushabh.soni9
 
 # Build settings
 markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: rusamgr8
+  username: rushabh.soni9
 # Add one or more of the following
 facebook:
   app_id: 
