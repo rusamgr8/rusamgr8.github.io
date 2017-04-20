@@ -6,6 +6,8 @@ image: assets/images/clock.jpg
 comments: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfO1WTIXYLs" frameborder="0" allowfullscreen></iframe>
+
 **Perfecting 24** is all about daily practice to make all the 24 hours of a day totally perfect.
 
 This goes by analyzing minute by minute of an hour.
